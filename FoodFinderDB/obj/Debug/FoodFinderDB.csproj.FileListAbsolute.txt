@@ -1,0 +1,10 @@
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\FoodFinderDB.exe.config
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\FoodFinderDB.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\FoodFinderDB.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\EntityFramework.dll
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\EntityFramework.xml
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\obj\Debug\FoodFinderDB.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\obj\Debug\FoodFinderDB.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderDB\FoodFinderDB\obj\Debug\FoodFinderDB.csprojResolveAssemblyReference.cache
